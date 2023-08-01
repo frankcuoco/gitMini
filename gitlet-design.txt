@@ -1,0 +1,39 @@
+Gitlet Design Document
+----------------------
+** init **
+new Gitlet version
+
+** add **
+
+** commit **
+
+** rm **
+
+** log **
+
+** global log **
+
+** find **
+
+** status **
+
+** checkout **
+
+** branch **
+
+** rm-branch **
+
+** reset **
+
+** merge **
+
+Classes and Data Structures
+---------------------------
+
+
+Algorithms
+----------
+
+
+Persistence
+-----------

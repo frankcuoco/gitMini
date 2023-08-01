@@ -1,0 +1,7 @@
+# Checking branch manipulation.
+> init
+<<<
+> branch "new"
+<<<
+> rm-branch "new"
+<<<
